@@ -13,7 +13,7 @@ import 'react-native-gesture-handler';
 import { NavigationContainer } from '@react-navigation/native';
 import HomeNavigator from './navigation/HomeNavigation';
 
-const App: () => ReactNode = () => { // tenho que me aprofundar nesse bando de atribuição kkkk
+const App: () => ReactNode = () => { // já entendi
   return (
     <NavigationContainer>
       <HomeNavigator/>
